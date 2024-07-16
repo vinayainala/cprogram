@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-printf("hi");
+printf("h7i");
 }
